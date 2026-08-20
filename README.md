@@ -36,23 +36,7 @@ EPWave
 EDA Playground
 Project Structure
 UART-TX-RX-IP-Core/
-│
-├── README.md
-│
-├── rtl/
-│   └── design.sv
-│
-├── testbench/
-│   └── testbench.sv
-│
-├── simulation/
-│   ├── uart.vcd
-│   ├── verilator_output.png
-│   ├── detailed_fsm_waveform.png
-│   └── overall_loopback_waveform.png
-│
-└── docs/
-    └── UART_TX_RX_IP_Core_Internship_Project.pptx
+
 Learning Outcomes
 
 This project provided practical experience in RTL design, finite-state machine implementation, synchronous digital design, serial communication protocols, functional verification, simulation, and waveform-based debugging.
