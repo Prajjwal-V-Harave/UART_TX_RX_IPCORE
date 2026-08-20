@@ -1,7 +1,5 @@
-// ============================================================
 // UART TX/RX IP CORE
 // 8-bit data, 1 start bit, 1 stop bit, no parity (8-N-1)
-// ============================================================
 
 module uart_tx #(
     parameter CLKS_PER_BIT = 10
